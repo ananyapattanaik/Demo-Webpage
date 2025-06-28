@@ -1,0 +1,59 @@
+#div1{
+	display: flex;
+}
+#img1{
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	margin-left: 250px;
+}
+	
+
+#st1{
+	text-align: center;
+	font-family: cursive;
+	color: gray;
+	display: flex;
+	margin-left: 250px;
+	padding: 10px;
+}
+#div2{
+	display:flex;}
+	
+#txt{
+margin-left: 250px;
+text-align: justify;
+}
+#pic{
+	width: 460px;
+	height: 240px;
+    margin-left: 150px;
+
+}
+#btn1{
+	color: black;
+	background-color: lightgray;
+	border-radius: 25px;
+	border: lightgray;
+	height: 40px;
+}
+#btn2{
+	color: white;
+	background-color: black;
+	border-radius: 25px;
+	height: 40px;
+}
+#p1{
+	font-family: cursive;
+	font-size: 30px;
+}
+#p2{
+	display:inline-block;
+	float: right; 
+	color: black;
+	 font-family: cursive;
+}
+#logo{
+	height: 10px;
+	width: 15px;
+}
